@@ -1,0 +1,15 @@
+C:\Users\kriti\source\repos\Task1and2\Task4\bin\Debug\net7.0\Task4and5.exe
+C:\Users\kriti\source\repos\Task1and2\Task4\bin\Debug\net7.0\Task4and5.deps.json
+C:\Users\kriti\source\repos\Task1and2\Task4\bin\Debug\net7.0\Task4and5.runtimeconfig.json
+C:\Users\kriti\source\repos\Task1and2\Task4\bin\Debug\net7.0\Task4and5.dll
+C:\Users\kriti\source\repos\Task1and2\Task4\bin\Debug\net7.0\Task4and5.pdb
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.csproj.AssemblyReference.cache
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.AssemblyInfoInputs.cache
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.AssemblyInfo.cs
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.csproj.CoreCompileInputs.cache
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.dll
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\refint\Task4and5.dll
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.pdb
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\Task4and5.genruntimeconfig.cache
+C:\Users\kriti\source\repos\Task1and2\Task4\obj\Debug\net7.0\ref\Task4and5.dll

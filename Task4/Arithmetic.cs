@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task4
+{
+    public abstract class Arithmetic
+    {
+        public abstract int add(int num1, int num2);
+        public abstract int sub(int num1, int num2);
+        public abstract int mul(int num1, int num2);
+        public abstract int div(int num1, int num2);
+    }
+
+    public class Calculator : Arithmetic
+    {
+        public override int add(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+        public override int sub(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+        public override int mul(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+        public override int div(int num1, int num2)
+        {
+            return num1 / num2;
+        }
+        public static void Main()
+        {
+            Calculator cal = new Calculator();
+            Console.WriteLine("Addition: " + cal.add(8, 4));
+            Console.WriteLine("Substraction: " + cal.sub(8, 4));
+            Console.WriteLine("Multiplication: " + cal.mul(8, 4));
+            Console.WriteLine("Division: " + cal.div(8, 4));
+        }
+    }
+}
