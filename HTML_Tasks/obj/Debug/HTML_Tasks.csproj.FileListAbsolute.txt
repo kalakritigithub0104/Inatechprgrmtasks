@@ -1,0 +1,3 @@
+C:\Users\kriti\source\repos\Task1and2\HTML_Tasks\obj\Debug\HTML_Tasks.csproj.AssemblyReference.cache
+C:\Users\kriti\source\repos\Task1and2\HTML_Tasks\obj\Debug\HTML_Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\kriti\source\repos\Task1and2\HTML_Tasks\obj\Debug\HTML_Tasks.csproj.CoreCompileInputs.cache
